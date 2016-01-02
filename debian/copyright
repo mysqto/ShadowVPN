@@ -1,0 +1,7 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: shadowvpn
+Source: https://github.com/clowwindy/ShadowVPN
+
+Files: *
+Copyright: 2015 clowwindy <clowwindy42@gmail.com>
+License: GPLv3
